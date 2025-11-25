@@ -1,11 +1,69 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlignY=58&reversal=true)
-<h1 align="center">Hi, I'm Tirth Sheth 👋</h1>
-I'm an AIML Enthusiast exploring Machine Learning, Python, and Data Science.
-## 🚀 Interests
-- AI/ML
-- Deep Learning
-- Research Projects
-- DSA
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Tirth%20Sheth&fontSize=45&fontColor=ffffff)
+
+# 👨‍💻 Tirth Sheth  
+### AI/ML Enthusiast | Deep Learning Learner | Research-Oriented Student
+
+I am Tirth Sheth, an aspiring AI/ML engineer with a strong interest in research-driven machine learning. I’m currently building my foundations in Python, Deep Learning, and Data Structures & Algorithms while exploring how ML models behave, learn, and generalize.  
+I enjoy working on projects that combine practical implementation with theoretical understanding.
+
+---
+
+## 🔍 Interests  
+- Research in Machine Learning  
+- Deep Learning Architectures  
+- Reproducible AI Experiments  
+- Applied ML Projects  
+
+---
+
+## 🛠 Tech & Skills  
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **Core Skills**
+- **Deep Learning** (ANN, CNN, RNN basics)  
+- **Machine Learning Fundamentals**  
+- **Data Structures & Algorithms**  
+- **Model Training & Evaluation**  
+
+---
+
+## 📈 Currently Learning
+- Advanced Deep Learning concepts  
+- Research methodologies in ML  
+- Optimizing models using DSA & logic  
+- Building cleaner, reproducible ML pipelines  
+
+---
+
+## 📂 Projects & Work
+🔹 ML experiments and small projects (more coming soon)  
+🔹 Python-based implementations  
+🔹 DSA problem-solving in Java/Python  
+
+_Check out my repositories for ongoing work._  
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+---
+
+## 📊 GitHub Analytics  
+
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
 
 
 <!--
