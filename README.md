@@ -54,13 +54,6 @@ _Check out my repositories for ongoing work._
 
 ---
 
-## 📊 GitHub Analytics  
-
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
