@@ -1,4 +1,12 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&descAlignY=58&reversal=true)
+<h1 align="center">Hi, I'm Tirth Sheth 👋</h1>
+I'm an AIML Enthusiast exploring Machine Learning, Python, and Data Science.
+## 🚀 Interests
+- AI/ML
+- Deep Learning
+- Research Projects
+- DSA
+
 
 <!--
 **TirthhShethh/TirthhShethh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
